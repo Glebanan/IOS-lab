@@ -1,9 +1,6 @@
 //
 //  EffectiveSwiftLab13vUITests.swift
 //  EffectiveSwiftLab13vUITests
-//
-//  Created by Kromov Daniil.
-//
 
 import XCTest
 
