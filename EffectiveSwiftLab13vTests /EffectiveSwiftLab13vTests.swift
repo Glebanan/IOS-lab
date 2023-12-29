@@ -1,9 +1,6 @@
 //
 //  EffectiveSwiftLab13vTests.swift
 //  EffectiveSwiftLab13vTests
-//
-//  Created by Kromov Daniil.
-//
 
 import XCTest
 @testable import EffectiveSwiftLab13v
