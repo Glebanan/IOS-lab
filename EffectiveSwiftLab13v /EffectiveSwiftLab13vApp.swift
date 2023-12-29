@@ -1,9 +1,6 @@
 //
 //  EffectiveSwiftLab13vApp.swift
 //  EffectiveSwiftLab13v
-//
-//  Created by Daniil Kromov.
-//
 
 import SwiftUI
 
