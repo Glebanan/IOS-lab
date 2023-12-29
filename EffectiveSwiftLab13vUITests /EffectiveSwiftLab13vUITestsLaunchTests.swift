@@ -1,10 +1,6 @@
 //
 //  EffectiveSwiftLab13vUITestsLaunchTests.swift
 //  EffectiveSwiftLab13vUITests
-//
-//  Created by Kromov Daniil.
-//
-
 import XCTest
 
 class EffectiveSwiftLab13vUITestsLaunchTests: XCTestCase {
